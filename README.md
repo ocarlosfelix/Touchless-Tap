@@ -1,5 +1,5 @@
 # Touchless Tap
-Código arduino para automação de torneiras convencionais <br>
+Código arduino para automação de torneiras convencionais, usando um circuito simples, barato e de fácil aplicação <br>
 O objetivo dessa aplicação é tirar a necessidade de contato físico para controlar uma torneira, tornando o controle mais higiênico e prático. <br>
 Ao aproximar a mão do sensor (ao limiar de 20cm de distância) o relé aciona a válvula que controla o fluxo de água, ativando a torneira. <br>
 Ao aproximar a mão do sensor novamente (ao limiar de 20cm de distância) o relé é desligado, interrompendo o fluxo de água da torneira.
